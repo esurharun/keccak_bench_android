@@ -1,0 +1,2 @@
+set solib-search-path /Users/marcus/tmp/KeccakBenchAndroid/obj/local/armeabi
+directory /Users/marcus/android-ndk-r8e/platforms/android-14/arch-arm/usr/include /Users/marcus/tmp/KeccakBenchAndroid/jni /Users/marcus/android-ndk-r8e/sources/cxx-stl/system
